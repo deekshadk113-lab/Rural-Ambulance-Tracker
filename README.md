@@ -1,4 +1,5 @@
 To run the project
+inside the directory \Rural-Ambulance-Tracker-master
 Run:
-install npm (incase the packages are not installed)
+npm install  (incase the packages are not installed) then 
 npm run dev
